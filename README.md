@@ -1,4 +1,4 @@
-# VSLAM-Simulator
+# VSLAM Simulator
 Requirements\
 Operating system: Ubuntu 16.04\
 Programming language: Python 3.6.11
