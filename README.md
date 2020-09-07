@@ -1,4 +1,5 @@
 # VSLAM Simulator
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/54795865/92373313-b96eec00-f130-11ea-9dac-aa2d59391c9a.gif)
 Requirements\
 Operating system: Ubuntu 16.04\
 Programming language: Python 3.6.11
