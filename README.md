@@ -29,5 +29,5 @@ cd build\
 cmake ..\
 make -j8\
 cd ..
-python setup.py install\
+python setup.py install
 
